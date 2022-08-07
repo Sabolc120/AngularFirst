@@ -1,5 +1,5 @@
 A projekt a main ágon van! itt csak a leírás.
-Használati úzmutató:
+Használati útmutató:
 1. Szükséges Node Modulok telepítése
 2. VScode, vagy valamilyen szerkesztő
 3. Angular
