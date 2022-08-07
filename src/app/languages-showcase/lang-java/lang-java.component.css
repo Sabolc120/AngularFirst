@@ -1,0 +1,18 @@
+.langTitle{
+    text-align:center;
+    font-size:3rem;
+    font-family:'Courier New', Courier, monospace;
+    color: #0096FF;
+}
+.langInventor{
+    text-align:center;
+    font-size:1.2rem;
+    font-family:'Courier New', Courier, monospace;
+    color: #00D7FF;
+}
+.langDesc{
+    font-size:1rem;
+    text-align:center;
+    color: #5800FF;
+    font-family: 'Courier New', Courier, monospace;
+}

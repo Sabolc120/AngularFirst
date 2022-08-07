@@ -1,0 +1,20 @@
+.frame{
+    margin-top:7%;
+    margin-bottom:3%;
+    text-align:center;
+}
+.linkFrame{
+    text-decoration: none;
+    color: #0096FF;
+    font-size:2rem;
+}
+.linkFrame:hover{
+    color: #5800FF;
+}
+.frameImg{
+    width:20%;
+    margin-left:12%;
+}
+.frameItem{
+    background-color: #72FFFF;
+}

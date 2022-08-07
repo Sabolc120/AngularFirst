@@ -1,0 +1,22 @@
+/* Navbar style settings */
+.myItem{
+    color:#0096FF;
+    font-size:1rem;
+    font-family:'Courier New', Courier, monospace;
+    margin-left:20%;
+}
+.myItem:hover{
+    font-size:1.1rem;
+    color:#5800FF;
+}
+.myBrand{
+    color:#0096FF;
+    font-family:'Courier New', Courier, monospace;
+}
+.align{
+    padding:3%;
+    padding-right:15%;
+}
+.navbar{
+    background-color: #00D7FF;
+}
